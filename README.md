@@ -28,6 +28,13 @@
 **Purpose:**
 - Warm-up task to ensure participants can deploy a basic project.
 
+**Process**
+- Created a new Repository called Port-folio
+- Then pushed all the changes made into the New Repo
+- Logged into the vercel.com 
+- Created on New Project 
+- Imported my Port-folio Repo
+- Deployed it successfully !
 ---
 
 ### **Level 1: Multi-Site HTML/CSS/JS Deployment**
