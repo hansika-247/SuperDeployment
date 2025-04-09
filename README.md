@@ -50,6 +50,14 @@
 **Purpose:**
 - Explore multiple deployment platforms and document your approach.
 
+**Process:**
+- Created a new Repository called Debugging-level1
+- Then deleted vercel.json file 
+- Added ,commited and Pushed all changes into the file
+- Logged into the vercel.com 
+- Created on New Project 
+- Imported my Port-folio Repo
+- Deployed it successfully !
 ---
 
 ### **Level 2: React Application Bug Fix & Deployment**
